@@ -1,5 +1,5 @@
 {
-  "name": "ledger-web-client",
+  "name": "ledger-web-hw-transport",
   "version": "1.0.0",
   "scripts": {
     "test": "yarn jest --detectOpenHandles",
