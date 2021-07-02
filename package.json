@@ -1,6 +1,10 @@
 {
   "name": "ledger-web-hw-transport",
   "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/machard/ledger-web-client"
+  },
   "scripts": {
     "test": "yarn jest --detectOpenHandles",
     "typecheck": "yarn tsc --project ./tsconfig-typecheck.json",
@@ -42,7 +46,7 @@
     "@ledgerhq/hw-transport": "^6.0.2",
     "@metamask/post-message-stream": "^4.0.0",
     "@types/readable-stream": "^2.3.10",
-    "ledger-web-client": "machard/ledger-web-client",
+    "ledger-web-client": "1.0.0",
     "uuid": "^8.3.2"
   }
 }

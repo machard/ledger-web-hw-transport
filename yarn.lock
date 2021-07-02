@@ -3123,9 +3123,10 @@ language-tags@^1.0.5:
   dependencies:
     language-subtag-registry "~0.3.2"
 
-ledger-web-client@machard/ledger-web-client:
+ledger-web-client@1.0.0:
   version "1.0.0"
-  resolved "https://codeload.github.com/machard/ledger-web-client/tar.gz/c4cb4d218b1d02647479a24476304e13717f0790"
+  resolved "https://registry.yarnpkg.com/ledger-web-client/-/ledger-web-client-1.0.0.tgz#0494803922bfb30b469759e5094aaf605f2e4e8c"
+  integrity sha512-RQ8QwA9+8ux1hj5dub+YuokBEBD5pMltPGC2olatXyLx+8dKLMM7yEqFAweYmc55CJmeBkNaTGOi59NK33DaPw==
   dependencies:
     "@metamask/post-message-stream" "^4.0.0"
     "@types/readable-stream" "^2.3.10"
